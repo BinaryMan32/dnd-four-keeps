@@ -1,0 +1,3 @@
+- destination for fine dining
+- prices are steep
+- concierge is [[Charles in Charge]]

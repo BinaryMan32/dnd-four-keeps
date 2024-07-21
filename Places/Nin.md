@@ -1,0 +1,2 @@
+- ruined town
+- infested with [[Ankheg]]

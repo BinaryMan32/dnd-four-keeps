@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Wrelen Steamsparker",
+      "path": "Characters/Wrelen Steamsparker/Wrelen Steamsparker.md"
+    },
+    {
+      "type": "file",
+      "title": "Tasks",
+      "path": "Tasks.md"
+    },
+    {
+      "type": "file",
+      "title": "Adventurers' Guild",
+      "path": "Storylines/Adventurers' Guild.md"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+- Quarter mile west of [[Bostwick]]
+- Mausoleum in the center
+- Sense a lingering evil
+- 

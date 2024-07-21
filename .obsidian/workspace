@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "6a3d025fcf96f1c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab1ac598cfeafb1f",
+        "type": "split",
+        "children": [
+          {
+            "id": "87ad1c6a0dc6f563",
+            "type": "leaf",
+            "dimension": 53.78486055776892,
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "87ad1c6a0dc6f563",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Places/Orlane/Orlane.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "87ad1c6a0dc6f563",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Places/Bard's Gate/Bard's Gate.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "87ad1c6a0dc6f563",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tasks.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Places/Orlane/Orlane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fc133db9d57fc68",
+            "type": "leaf",
+            "dimension": 46.21513944223107,
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ec9709d1d9251e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d54adff46106684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34c20669a89e0130",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5364b08d5deb0142",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "magic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "83df670d7a2564b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "018a77fe169167b2",
+        "type": "tabs",
+        "dimension": 35.171261487050955,
+        "children": [
+          {
+            "id": "12ee9ae7285cf07d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "93a44115c4094694",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7248fafc8129e3cf",
+        "type": "tabs",
+        "dimension": 16.70843776106934,
+        "children": [
+          {
+            "id": "e2b76a3055a61b1d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e84a7f256b944e7a",
+        "type": "tabs",
+        "dimension": 16.70843776106934,
+        "children": [
+          {
+            "id": "9601cae37d31d38e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Places/Orlane/Orlane.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e228a8a063c38381",
+        "type": "tabs",
+        "dimension": 31.411862990810356,
+        "children": [
+          {
+            "id": "129b2c8d074ce810",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Places/Orlane/Orlane.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "da0af32c2bda9943",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Places/Orlane/Orlane.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3492b583b9774d5e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 426.5
+  },
+  "active": "87ad1c6a0dc6f563",
+  "lastOpenFiles": [
+    "Places/Bard's Gate/Bard's Gate.md",
+    "Tasks.md",
+    "People/Serilly Findlar.md",
+    "People/Baba Fatt.md",
+    "Storylines/Adventurers' Guild.md",
+    "Journal/Day001.md",
+    "Creatures/Explicika.md",
+    "People/Abramo.md",
+    "Places/Orlane/Temple of Freya.md",
+    "People/Misha Devy.md"
+  ]
+}
