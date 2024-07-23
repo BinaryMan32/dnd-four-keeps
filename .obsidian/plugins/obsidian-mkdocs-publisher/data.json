@@ -1,8 +1,8 @@
 {
   "github": {
-    "user": "",
-    "repo": "",
-    "branch": "main",
+    "user": "BinaryMan32",
+    "repo": "dnd-four-keeps-quartz",
+    "branch": "v4",
     "automaticallyMergePR": true,
     "dryRun": {
       "enable": false,
@@ -18,12 +18,12 @@
       "name": ""
     },
     "otherRepo": [],
-    "verifiedRepo": false,
-    "rateLimit": 0
+    "verifiedRepo": true,
+    "rateLimit": 4997
   },
   "upload": {
-    "behavior": "fixed",
-    "defaultName": "",
+    "behavior": "obsidian",
+    "defaultName": "content",
     "rootFolder": "",
     "yamlFolderKey": "",
     "frontmatterTitle": {
@@ -38,7 +38,7 @@
       "excluded": []
     },
     "folderNote": {
-      "enable": false,
+      "enable": true,
       "rename": "index.md",
       "addTitle": {
         "enable": false,
@@ -57,7 +57,7 @@
       "fields": []
     },
     "links": {
-      "internal": false,
+      "internal": true,
       "unshared": false,
       "wiki": false,
       "slugify": "disable"
@@ -93,6 +93,11 @@
     "noticeError": false,
     "displayModalRepoEditing": false,
     "setFrontmatterKey": "Set",
-    "migrated": true
-  }
+    "migrated": true,
+    "shareAll": {
+      "enable": true,
+      "excludedFileName": "DRAFT"
+    }
+  },
+  "tabsId": "github-configuration"
 }
