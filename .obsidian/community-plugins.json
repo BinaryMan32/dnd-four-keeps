@@ -14,5 +14,6 @@
   "auto-moc",
   "obsidian-tasks-plugin",
   "alx-folder-note-folderv",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-mkdocs-publisher"
 ]
