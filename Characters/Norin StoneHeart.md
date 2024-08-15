@@ -9,7 +9,7 @@ worships [[Selune]], holy symbol is depicted below
 ## Preparing Spells
 - number: `floor(CHA modifier + 0.5 * level) = 6`
 - holy symbol is spell casting focus
-- oath spells - how do they work?
+- oath spells don't count against number of prepared spells
 ## Tenets of the Watchers
 A paladin who assumes the Oath of the Watchers
 swears to safeguard mortal realms from other-
