@@ -1,0 +1,2 @@
+- earth elementals often found near digging sites
+- eat gems
