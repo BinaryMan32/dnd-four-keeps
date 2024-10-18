@@ -2,6 +2,6 @@
 owner: Aaron
 race: Human
 class: 
-status: alive
+status: cursed
 ---
 - abhorrs evil and death
