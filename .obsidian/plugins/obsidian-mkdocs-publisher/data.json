@@ -60,7 +60,8 @@
       "internal": true,
       "unshared": false,
       "wiki": false,
-      "slugify": "disable"
+      "slugify": "disable",
+      "unlink": false
     }
   },
   "embed": {
@@ -72,7 +73,8 @@
     "convertEmbedToLinks": "keep",
     "charConvert": "->",
     "unHandledObsidianExt": [],
-    "sendSimpleLinks": true
+    "sendSimpleLinks": true,
+    "forcePush": true
   },
   "plugin": {
     "shareKey": "share",
