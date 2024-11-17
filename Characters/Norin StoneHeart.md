@@ -7,7 +7,7 @@ status: alive
 worships [[Selune]], holy symbol is depicted below
 ![[selune-holy-symbol.png]]
 ## Preparing Spells
-- number: `floor(CHA modifier + 0.5 * level) = 6`
+- number: `floor(CHA modifier + 0.5 * level) = (5 + 0.5 * 6) = 8`
 - holy symbol is spell casting focus
 - oath spells don't count against number of prepared spells
 ## Tenets of the Watchers
