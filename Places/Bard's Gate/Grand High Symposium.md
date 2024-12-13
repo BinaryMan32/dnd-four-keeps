@@ -1,0 +1,2 @@
+- for meeting of leaders/bergers
+- they have offices here also

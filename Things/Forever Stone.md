@@ -7,6 +7,6 @@
 	- Stanley the star elf came upon it
 	- beat the traps of the mine
 	- was able to retrieve the stone
-	- Stanley the star elf ran afoul of [[Larenkar]]
-	- now [[Larenkar]] has the forever stone
-- probably hidden in the vault of Larenkar
+	- Stanley the star elf ran afoul of [[Larin Karr]]
+	- now [[Larin Karr]] has the forever stone
+- probably hidden in the vault of Larin Karr
